@@ -35,7 +35,7 @@ def desconectar(conn):
         conn.close()
 
 
-#---Listando-Tabela-do-Banco-de-Dados
+#---Listando-Tabela-do-Banco-de-Dados----
 def listar(query, type_return=0):
     conn = conectar()
     cursor = conn.cursor()
