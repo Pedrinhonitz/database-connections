@@ -48,7 +48,7 @@ def listar(query, type_return=0):
             print(df)
             divideLine()
         elif type_return ==1:
-            print(f"{PURPLE} {' → LISTANDO PRODUTOS ':^40} {RESET}")
+            print(f"{PURPLE} {' → LISTANDO ':^40} {RESET}")
             divideLine()
 
             for resultado in resultados:
