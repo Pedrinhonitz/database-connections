@@ -14,6 +14,7 @@
 - Redis
 - CouchDB
 - Firebase
+- Redshift
 
 #### Bancos em Java
 - EM DESENVOLVIMENTO
