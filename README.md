@@ -34,7 +34,13 @@
 - EM DESENVOLVIMENTO
 
 #### Bancos em Julia
-- EM DESENVOLVIMENTO
+- Athena
+- Google Big Query
+- CouchDB
+- MongoDB
+- MySQL
+- PostgreSQL
+- Snowflake
 
 #### Bancos em Ruby
 - EM DESENVOLVIMENTO
