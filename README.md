@@ -43,7 +43,8 @@
 - Snowflake
 
 #### Bancos em Ruby
-- EM DESENVOLVIMENTO
+- Athena
+- Snowflake
 
 #### Bancos em PHP
 - EM DESENVOLVIMENTO
